@@ -1,0 +1,41 @@
+@media only screen and (max-width: 768px) {
+   .navbar-brand{
+    display: inline;
+}
+#social{
+
+    font-size: 30px;
+    
+}
+#social1 {
+    color:#fff7fc;
+
+}
+#logo{
+    display: inline;
+    width: 12%;
+    height: 14%;
+    padding-top: 1.5%;
+}
+figure{
+    padding: 5%;
+}
+#sociales{
+    display: none;
+}
+#cepc-sub{
+    font-size: 16px;
+}
+footer{
+   
+    padding: 1% 1% 1% 1%;
+    
+}
+#pie2{
+    padding-top: .2%;
+    font-size: 15px;
+}
+#reloj{
+    margin-top: 2%;
+}
+}
