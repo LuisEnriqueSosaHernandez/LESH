@@ -16,8 +16,8 @@ window.addEventListener("load",sitioCargado,false);
 			context.translate(canvas.width/2,canvas.height/2);
 			context.scale(0.5,0.5);
 			context.rotate(-Math.PI/2);
-			context.strokeStyle="black";
-			context.fillStyle="white";
+			context.strokeStyle="#fff7fc";
+			context.fillStyle="#fff7fc";
 			context.lineWidth=8;
 			context.lineCap="round";
 
@@ -59,7 +59,7 @@ window.addEventListener("load",sitioCargado,false);
 			 hora=hora%12;
 
 
-			 context.fillStyle="black";
+			 context.fillStyle="#fff7fc";
 			 //pintar horero
 			 context.save();
 			 context.rotate(hora*(Math.PI/6)+(Math.PI/360)*min+(Math.PI/21600)*sec);
