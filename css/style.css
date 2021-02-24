@@ -103,6 +103,16 @@ section div div span{
 	-webkit-transform : scale(1.4,1.4); /* Chrome - Safari */
 	-o-transform : scale(1.4,1.4); /* Opera */
 }
+.iconolinked{
+	transition:.5s ease;
+	color:#0a66c2;
+}
+.iconolinked:hover{
+	transform : scale(1.4,1.4);
+	-moz-transform : scale(1.4,1.4); /* Firefox */
+	-webkit-transform : scale(1.4,1.4); /* Chrome - Safari */
+	-o-transform : scale(1.4,1.4); /* Opera */
+}
 .iconocode{
 	transition:.5s ease;
 	color:#2e2e2d;
